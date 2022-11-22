@@ -1,0 +1,88 @@
+commit 5c8bf3aea998eac4b9510aad79a6a183893c7323
+Author: Divya14473 <118828328+Aman4213@users.noreply.github.com>
+Date:   Tue Nov 22 20:14:31 2022 +0530
+
+    Practical 10
+
+commit e2b4c0077c6c83f0bad0263983be0388dfb46836
+Author: Divya14473 <118828328+Aman4213@users.noreply.github.com>
+Date:   Tue Nov 22 20:14:07 2022 +0530
+
+    Practical 9
+
+commit 62a4ca077e0a1f55cf269fc3a14d7e16a1489045
+Author: Divya14473 <118828328+Aman4213@users.noreply.github.com>
+Date:   Tue Nov 22 20:13:21 2022 +0530
+
+    practical 8
+
+commit b54e74312aeebd3d1843990595578ac826216fad
+Author: Divya14473 <118828328+Aman4213@users.noreply.github.com>
+Date:   Tue Nov 22 20:12:57 2022 +0530
+
+    Practical 7
+
+commit 602d8b7301ef574d131edb1376edc57f2f6988ac
+Author: Divya14473 <118828328+Aman4213@users.noreply.github.com>
+Date:   Tue Nov 22 20:12:26 2022 +0530
+
+    Practical 6
+
+commit 53f83fa963cd6184635d163f87af6754291d50c0
+Author: Divya14473 <118828328+Aman4213@users.noreply.github.com>
+Date:   Tue Nov 22 20:12:04 2022 +0530
+
+    Practical 5
+
+commit 6e07e706195b728598cf341383a70d9cf6b7437f
+Author: Divya14473 <118828328+Aman4213@users.noreply.github.com>
+Date:   Tue Nov 22 20:11:23 2022 +0530
+
+    Create Practical_4.c
+
+commit 5304a8666dbb51d1dca97e7a81c7612e81eea849
+Author: Divya14473 <118828328+Aman4213@users.noreply.github.com>
+Date:   Tue Nov 22 20:10:27 2022 +0530
+
+    Practical 3
+    
+    Co-Authored-By: Aman4213 <118828328+aman4213@users.noreply.github.com>
+
+commit b2a6d05b30585c181d1945aaaacaf3cd94028511
+Author: Divya14473 <77743546+Divya14473@users.noreply.github.com>
+Date:   Tue Nov 22 20:03:29 2022 +0530
+
+    Practical 2
+
+commit dc2584c935ed4720ef7c8786482c4ddd63f88504
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:14:00 2022 +0100
+
+    Update README.md
+
+commit e811d2284ca3ffb2924bab959a842bb3806b35e0
+Merge: 6a5ffb7 d2c301d
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:13:37 2022 +0100
+
+    Merge pull request #1 from buketbenek/Buket_BenekGursoy
+    
+    Update README file
+
+commit d2c301dad05f0c7ff203d4b28e1d8be3ade3c99c
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:11:21 2022 +0100
+
+    Update README file
+
+commit 6a5ffb76f12846d1b0c8cc5d62cf0716a4fda823
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Mon Aug 8 15:18:16 2022 +0100
+
+    Update README.md
+
+commit db2e6a8406e8f069576574b3bcdbe338a5827664
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Mon Aug 8 15:17:45 2022 +0100
+
+    Initial commit
